@@ -1,4 +1,4 @@
-# An Attributed Multiplex Graph Neural Network for Stock Prediction withConsidering Observable and Non-observable Prior Knowledge
+# DisMS-TS: Eliminating Redundant Multi-scale Features for Time Series Classification
 
 
 
